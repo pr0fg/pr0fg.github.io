@@ -12,12 +12,12 @@ A simple JavaScript web application that polls and analyzes heart rate variabili
 
 ### Open Courseware 
 
-[Intro to Pentesting](https://github.com/pr0fg/pentesting-course)
+[Introduction to Penetration Testing](https://github.com/pr0fg/pentesting-course)
 
 This course provides students with theoretical and hands-on knowledge of security analysis from an offensive perspective.
 
 ---
-[Web Pentesting](https://github.com/pr0fg/web-pentesting-course)
+[Web Penetration Testing](https://github.com/pr0fg/web-pentesting-course)
 
 This course prepares students to conduct an advanced, methodical security analysis of enterprise, server, desktop, API, and mobile web systems.
 
