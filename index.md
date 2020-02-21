@@ -5,6 +5,7 @@
 ### Development Projects
 
 [HRV Analysis for TrainingPeaks](https://github.com/pr0fg/trainingpeaks-hrv-analysis)
+
 <img src="images/trainingpeaks-hrv-analysis.png?raw=true"/>
 A simple JavaScript web application that polls and analyzes heart rate variability (HRV) data from TrainingPeaks.
 
