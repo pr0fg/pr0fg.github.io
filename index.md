@@ -19,7 +19,7 @@ This course provides students with theoretical and hands-on knowledge of securit
 ---
 [Web Penetration Testing](https://github.com/pr0fg/web-pentesting-course)
 
-This course prepares students to conduct an advanced, methodical security analysis of enterprise, server, desktop, API, and mobile web systems.
+This course prepares students to conduct an advanced, methodical security analysis of enterprise, server, desktop, API, and mobile web systems. Includes Dockerized labs and self-assessment content.
 
 ---
 [Software-Defined Data Centers](https://github.com/pr0fg/sddc-course)
