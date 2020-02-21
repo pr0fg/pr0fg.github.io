@@ -13,7 +13,7 @@
 
 ---
 [Open Courseware: Software-Defined Data Centers](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+hgjhhg saddsdsa dsadaasd
 
 ---
 [Open Courseware: Software-Defined Data Centers](http://example.com/)
