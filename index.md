@@ -12,23 +12,25 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Open Courseware: Software-Defined Data Centers](http://example.com/)
+[Open Courseware: Intro to Pentesting](https://github.com/pr0fg/pentesting-course)
 
-hgjhhg saddsdsa dsadaasd
+This course provides students with theoretical and hands-on knowledge of security analysis from an offensive perspective.
+
+---
+[Open Courseware: Web Pentesting](https://github.com/pr0fg/web-pentesting-course)
+
+This course prepares students to conduct an advanced, methodical security analysis of enterprise, server, desktop, API, and mobile web systems.
+
+---
+[Open Courseware: Software-Defined Data Centers](https://github.com/pr0fg/sddc-course)
+
+A course presenting a comprehensive overview of key design factors for modern software-defined data centers (SDDC).
 
 ---
 [Open Courseware: Software-Defined Data Centers](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Open Courseware: Software-Defined Data Centers](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A course presenting the fundamentals of blockchains, cryptocurrencies, and dApps.
 
----
-[Open Courseware: Software-Defined Data Centers](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Category Name 2
 
