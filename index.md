@@ -1,15 +1,13 @@
 ## Portfolio
 
 ---
----
 
 ### Development Projects
 
-[HRV Analysis for TrainingPeaks](/pdf/sample_presentation.pdf)
+[HRV Analysis for TrainingPeaks](https://github.com/pr0fg/trainingpeaks-hrv-analysis)
 
 A simple JavaScript web application that polls and analyzes heart rate variability (HRV) data from TrainingPeaks.
 
----
 ---
 
 ### Open Courseware 
