@@ -1,10 +1,10 @@
-title: <center>Garrett Hayes</center>
+title: Garrett Hayes
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i>MSc (Computer Science), OSCP</i>
   <br><br>
   I am an Associate Teaching Professor at <a href="https://ontariotechu.ca/">Ontario Tech University</a>. Some of my focus areas include: 
-  penetration testing, cloud technologies, software-defined data centres, and applied mathematics. 
+  penetration testing, data science, applied mathematics, and sports physiology. 
   <br><br>
   
 theme: jekyll-theme-minimal
