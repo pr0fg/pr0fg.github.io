@@ -2,32 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Development Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[HRV Analysis for TrainingPeaks](/pdf/sample_presentation.pdf)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+A simple JavaScript web application that polls and analyzes heart rate variability (HRV) data from TrainingPeaks.
 
----
-[Open Courseware: Intro to Pentesting](https://github.com/pr0fg/pentesting-course)
+
+### Open Courseware 
+
+[Intro to Pentesting](https://github.com/pr0fg/pentesting-course)
 
 This course provides students with theoretical and hands-on knowledge of security analysis from an offensive perspective.
 
 ---
-[Open Courseware: Web Pentesting](https://github.com/pr0fg/web-pentesting-course)
+[Web Pentesting](https://github.com/pr0fg/web-pentesting-course)
 
 This course prepares students to conduct an advanced, methodical security analysis of enterprise, server, desktop, API, and mobile web systems.
 
 ---
-[Open Courseware: Software-Defined Data Centers](https://github.com/pr0fg/sddc-course)
+[Software-Defined Data Centers](https://github.com/pr0fg/sddc-course)
 
 A course presenting a comprehensive overview of key design factors for modern software-defined data centers (SDDC).
 
 ---
-[Open Courseware: Software-Defined Data Centers](http://example.com/)
+[Introduction to Blockchain](https://github.com/pr0fg/blockchain-course)
 
 A course presenting the fundamentals of blockchains, cryptocurrencies, and dApps.
 
