@@ -1,6 +1,7 @@
 ## Portfolio
 
 ---
+---
 
 ### Development Projects
 
@@ -8,6 +9,8 @@
 
 A simple JavaScript web application that polls and analyzes heart rate variability (HRV) data from TrainingPeaks.
 
+---
+---
 
 ### Open Courseware 
 
@@ -29,14 +32,3 @@ A course presenting a comprehensive overview of key design factors for modern so
 [Introduction to Blockchain](https://github.com/pr0fg/blockchain-course)
 
 A course presenting the fundamentals of blockchains, cryptocurrencies, and dApps.
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
